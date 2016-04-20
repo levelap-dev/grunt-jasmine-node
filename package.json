@@ -1,13 +1,16 @@
 {
   "name" : "grunt-jasmine-node",
   "description" : "Grunt task for running jasmine-node",
-  "version" : "0.3.1",
+  "version" : "0.3.2",
   "homepage" : "https://github.com/jasmine-contrib/grunt-jasmine-node",
   "author" : {
     "name" : "Omar Gonzalez",
     "email" : "s9tpepper@apache.org",
     "url" : "http://s9tpepper.com"
   },
+  "contributors": [
+    "rafapolit <rafaelpolit@gmail.com>"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jasmine-contrib/grunt-jasmine-node.git"
